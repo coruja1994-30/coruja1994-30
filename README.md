@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming in Javascript and Python
 - 🌱 I am currently studying a Bachelor's degree in Software Engineering
 - 💞️ I'm looking for new skills and knowledge in the area of ​​programming
-- 📫 contacts by email or linkedin
+- 📫 E-mail: Leonardo.pere1704@gmail.com
 - 😄 Pronouns: he/them
 
 
