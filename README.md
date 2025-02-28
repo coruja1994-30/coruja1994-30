@@ -5,9 +5,12 @@
 - 😄 Pronouns: he/them
 
 <div>
-  <a href="https://beacoms.ai/Coruja1994-30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coruja1994-30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Coruja1994-30&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coruja1994-30&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 </div>
 
 ##
